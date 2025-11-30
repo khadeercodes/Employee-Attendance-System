@@ -8,7 +8,7 @@ const COLORS = ['#28a745', '#dc3545', '#ffc107', '#17a2b8'];
 
 function ManagerDashboard() {
   const dispatch = useDispatch();
-  const { managerDashboard, todayStatusManager, loading } = useSelector((state) => state.attendance);
+  const { managerDashboard, loading } = useSelector((state) => state.attendance);
 
   useEffect(() => {
     dispatch(getManagerDashboard());

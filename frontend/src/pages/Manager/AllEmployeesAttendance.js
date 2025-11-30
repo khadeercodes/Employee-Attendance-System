@@ -15,7 +15,7 @@ function AllEmployeesAttendance() {
 
   useEffect(() => {
     dispatch(getAllAttendance(filters));
-  }, [dispatch]);
+  }, [dispatch, filters]);
 
   const handleFilterChange = (e) => {
     const newFilters = {

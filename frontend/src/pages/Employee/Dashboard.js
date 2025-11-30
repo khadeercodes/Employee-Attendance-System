@@ -6,7 +6,7 @@ import './Dashboard.css';
 
 function EmployeeDashboard() {
   const dispatch = useDispatch();
-  const { employeeDashboard, todayStatus, loading } = useSelector((state) => state.attendance);
+  const { employeeDashboard, loading } = useSelector((state) => state.attendance);
 
   useEffect(() => {
     dispatch(getEmployeeDashboard());
