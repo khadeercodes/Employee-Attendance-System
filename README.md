@@ -4,10 +4,6 @@ Hey there! This is an Employee Attendance Management System I built from scratch
 
 I built this using React for the frontend and Node.js with Express for the backend. The UI uses a neumorphism design (soft shadows, clean look) that I really like. It's fully functional and ready to use.
 
-## Screenshots
-
-> **Note:** Screenshots will be added soon. The application features a modern neumorphism UI design with clean, soft shadows and an intuitive interface.
-
 ### Application Features
 
 - **Login & Registration Pages** - Clean authentication interface with neumorphism design
