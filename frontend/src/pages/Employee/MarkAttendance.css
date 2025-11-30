@@ -1,0 +1,105 @@
+.mark-attendance {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.mark-attendance h1 {
+  margin-bottom: 20px;
+  color: #2c3e50;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.attendance-card {
+  background: white;
+  border-radius: 8px;
+  padding: 30px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e0e0e0;
+}
+
+.attendance-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.attendance-header h2 {
+  color: #2c3e50;
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.date {
+  color: #666;
+  font-size: 16px;
+}
+
+.attendance-status {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.status-indicator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.status-circle {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background-color: #dc3545;
+}
+
+.status-indicator.present .status-circle {
+  background-color: #28a745;
+}
+
+.status-indicator.late .status-circle {
+  background-color: #ffc107;
+}
+
+.status-text {
+  font-size: 24px;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.time-info {
+  margin-top: 20px;
+}
+
+.time-info p {
+  margin: 10px 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.attendance-actions {
+  text-align: center;
+}
+
+.btn-large {
+  padding: 12px 30px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 6px;
+}
+
+.completed-message {
+  text-align: center;
+  padding: 20px;
+  background-color: #d4edda;
+  border-radius: 8px;
+  color: #155724;
+}
+
+.completed-message p {
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
