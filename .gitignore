@@ -98,6 +98,7 @@ null-editor.bat
 # Temporary documentation and scripts
 *.md
 !README.md
+!**/README.md
 !SUBMISSION_LINKS.md
 !LOGIN_CREDENTIALS.md
 *.ps1
