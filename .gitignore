@@ -101,10 +101,16 @@ null-editor.bat
 !**/README.md
 !SUBMISSION_LINKS.md
 !LOGIN_CREDENTIALS.md
+!screenshots/README.md
 *.ps1
 *.bat
 *.txt
 *.mp4
 *.avi
 *.mov
+
+# Screenshots (keep these)
+!screenshots/*.png
+!screenshots/*.jpg
+!screenshots/*.jpeg
 

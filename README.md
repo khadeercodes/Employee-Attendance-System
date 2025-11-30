@@ -4,6 +4,43 @@ Hey there! This is an Employee Attendance Management System I built from scratch
 
 I built this using React for the frontend and Node.js with Express for the backend. The UI uses a neumorphism design (soft shadows, clean look) that I really like. It's fully functional and ready to use.
 
+## Screenshots
+
+### Authentication Pages
+
+**Login Page**
+![Login Page](./screenshots/login.png)
+
+**Registration Page**
+![Registration Page](./screenshots/register.png)
+
+### Employee Dashboard
+
+**Employee Dashboard Overview**
+![Employee Dashboard](./screenshots/employee-dashboard.png)
+
+**Recent Attendance Chart**
+![Recent Attendance](./screenshots/employee-attendance-chart.png)
+
+**Attendance Details**
+![Attendance Details](./screenshots/employee-attendance-details.png)
+
+### Manager Dashboard
+
+**Manager Dashboard Overview**
+![Manager Dashboard](./screenshots/manager-dashboard.png)
+
+**All Employees Attendance**
+![All Employees Attendance](./screenshots/all-employees-attendance.png)
+
+**Team Calendar View**
+![Team Calendar View](./screenshots/team-calendar-view.png)
+
+**Attendance Reports**
+![Attendance Reports](./screenshots/attendance-reports.png)
+
+---
+
 ## What It Does
 
 ### For Employees
