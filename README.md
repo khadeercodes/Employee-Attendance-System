@@ -202,6 +202,11 @@ This project is open source. Feel free to use it, modify it, or learn from it.
 
 ## Contact
 
+**Developer Information:**
+- **Name:** Shaik Khadeer
+- **College:** Rise Krishna Sai Gandhi Group of Institutions
+- **Contact Number:** +91 7981961646
+
 If you have questions or find bugs, feel free to open an issue on GitHub.
 
 ---
