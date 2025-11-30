@@ -259,3 +259,4 @@ const attendanceSlice = createSlice({
 export const { clearError, clearAttendance } = attendanceSlice.actions;
 export default attendanceSlice.reducer;
 
+

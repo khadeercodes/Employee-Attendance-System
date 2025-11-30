@@ -30,3 +30,4 @@ router.get('/today-status', protect, authorize('manager'), getTodayStatus);
 
 module.exports = router;
 
+

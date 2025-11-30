@@ -8,3 +8,4 @@ router.get('/manager', protect, authorize('manager'), getManagerDashboard);
 
 module.exports = router;
 
+
