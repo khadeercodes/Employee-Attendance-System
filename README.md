@@ -112,17 +112,59 @@ The frontend will open at `http://localhost:3000`
 
 ## Default Login Credentials
 
-After running the seed script, you can login with:
+After running the seed script, you can login with these credentials:
 
-**Manager:**
-- Email: manager@example.com
-- Password: manager123
+### Manager Account
 
-**Employee (any of these):**
-- Email: john@example.com
-- Password: employee123
+**Email:** `manager@example.com`  
+**Password:** `manager123`
 
-(There are a few more employees in the seed data with the same password)
+**Details:**
+- Name: Manager User
+- Employee ID: MGR001
+- Department: Management
+- Role: Manager
+
+### Employee Accounts
+
+You can use any of these employee accounts:
+
+**Employee 1:**
+- Email: `john@example.com`
+- Password: `employee123`
+- Name: John Doe
+- Employee ID: EMP001
+- Department: Engineering
+
+**Employee 2:**
+- Email: `jane@example.com`
+- Password: `employee123`
+- Name: Jane Smith
+- Employee ID: EMP002
+- Department: Engineering
+
+**Employee 3:**
+- Email: `bob@example.com`
+- Password: `employee123`
+- Name: Bob Johnson
+- Employee ID: EMP003
+- Department: Sales
+
+**Employee 4:**
+- Email: `alice@example.com`
+- Password: `employee123`
+- Name: Alice Williams
+- Employee ID: EMP004
+- Department: Marketing
+
+**Employee 5:**
+- Email: `charlie@example.com`
+- Password: `employee123`
+- Name: Charlie Brown
+- Employee ID: EMP005
+- Department: Engineering
+
+**Note:** All employees use the same password (`employee123`) for easy testing. You can also register new accounts through the registration page.
 
 ## Project Structure
 
