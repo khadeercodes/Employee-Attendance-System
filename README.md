@@ -6,38 +6,18 @@ I built this using React for the frontend and Node.js with Express for the backe
 
 ## Screenshots
 
-### Authentication Pages
+> **Note:** Screenshots will be added soon. The application features a modern neumorphism UI design with clean, soft shadows and an intuitive interface.
 
-**Login Page**
-![Login Page](./screenshots/login.png)
+### Application Features
 
-**Registration Page**
-![Registration Page](./screenshots/register.png)
+- **Login & Registration Pages** - Clean authentication interface with neumorphism design
+- **Employee Dashboard** - Personal attendance tracking with charts and statistics
+- **Manager Dashboard** - Comprehensive team overview with analytics
+- **Attendance Management** - Easy check-in/check-out functionality
+- **Reports & Analytics** - Detailed attendance reports with export capabilities
+- **Team Calendar View** - Visual calendar representation of team attendance
 
-### Employee Dashboard
-
-**Employee Dashboard Overview**
-![Employee Dashboard](./screenshots/employee-dashboard.png)
-
-**Recent Attendance Chart**
-![Recent Attendance](./screenshots/employee-attendance-chart.png)
-
-**Attendance Details**
-![Attendance Details](./screenshots/employee-attendance-details.png)
-
-### Manager Dashboard
-
-**Manager Dashboard Overview**
-![Manager Dashboard](./screenshots/manager-dashboard.png)
-
-**All Employees Attendance**
-![All Employees Attendance](./screenshots/all-employees-attendance.png)
-
-**Team Calendar View**
-![Team Calendar View](./screenshots/team-calendar-view.png)
-
-**Attendance Reports**
-![Attendance Reports](./screenshots/attendance-reports.png)
+Visit the live application to see the UI in action: [https://zippy-licorice-414082.netlify.app](https://zippy-licorice-414082.netlify.app)
 
 ---
 
